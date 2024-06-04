@@ -1,6 +1,3 @@
-##Yasmine Zeineldin's Project##
-        ##320230084##
-        ##Section 4##
 from abc import abstractmethod
 print("Welcome to Yasmine Zein's online Bookstore!")
 
